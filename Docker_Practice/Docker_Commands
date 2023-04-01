@@ -1,0 +1,12 @@
+Installation Steps of Docker:-
+------------------------------
+
+- 
+
+Basic Commands od Docker:-
+------------------------
+- Docker build -t image_name:Version
+- Docker Image ls
+- Docker run container -d -n name_of_container -p 80(host_IP):80(Application_IP)
+- Docker ps
+- Docker ps -a 
